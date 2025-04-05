@@ -81,3 +81,6 @@
 
 ![footer](https://github.com/nicoNaiclas21/nicoNaiclas21/blob/master/WEBP/footer.webp)
 
+-----
+**Credits**: [nicoNaiclas21](https://github.com/nicoNaiclas21)
+

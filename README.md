@@ -20,8 +20,6 @@
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
-<br/>
-<br/>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cassandra,java,mysql,py&them=light)](https://skillicons.dev)

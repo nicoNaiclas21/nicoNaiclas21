@@ -6,16 +6,13 @@
 
 <br/>
 <br/>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 🔭 Ahora mismo estoy estudiando **Desarrollo de Aplicaciones Multiplataforma.**
 - 🌱 Mi objetivo es crecer y formarme en el mundo de la **Informática.**
 - 💬 Cualquier cosa no dudes en decirme [here](https://github.com/nicoNaiclas21/nicoNaiclas21/issues/1) ! Será un placer ayudarte.
 
 <br/>
-<br/>
-
-
-
 #
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -75,7 +72,7 @@
 
 #
 
-![footer](https://github.com/nicoNaiclas21/nicoNaiclas21/blob/master/WEBP/footer.webp)
+
 
 -----
 **Credits**: [nicoNaiclas21](https://github.com/nicoNaiclas21)

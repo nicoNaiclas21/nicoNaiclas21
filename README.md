@@ -10,7 +10,7 @@
 
 - 🔭 Ahora mismo estoy estudiando **Desarrollo de Aplicaciones Multiplataforma.**
 - 🌱 Mi objetivo es crecer y formarme en el mundo de la **Informática.**
-- 💬 Cualquier cosa no dudes en decirme [here](https://github.com/nicoNaiclas21/nicoNaiclas21/issues/1) ! Será un placer ayudarte.
+- 💬 Cualquier cosa no dudes en decirme! Será un placer ayudarte.
 
 <br/>
 #

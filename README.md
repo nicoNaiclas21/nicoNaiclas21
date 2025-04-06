@@ -7,71 +7,80 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-- 🔭 Ahora mismo estoy estudiando **Desarrollo de Aplicaciones Multiplataforma.**
-- 🌱 Mi objetivo es crecer y formarme en el mundo de la **Informática.**
-- 💬 Cualquier cosa no dudes en decirme! Será un placer ayudarte.
-
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="left">
+      - 🔭 Ahora mismo estoy estudiando **Desarrollo de Aplicaciones Multiplataforma.**
+      - 🌱 Mi objetivo es crecer y formarme en el mundo de la **Informática.**
+      - 💬 Cualquier cosa no dudes en decirme! Será un placer ayudarte.
+    </td>
+    <td width="50%" align="center">
+      <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+    </td>
+  </tr>
+</table>
 <br/>
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
-#
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cassandra,java,mysql,py&them=light)](https://skillicons.dev)
-
+<p align="left">
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cassandra,java,mysql,py&them=light)](https://skillicons.dev)
+</p>
 #
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashu-guo&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-guo&theme=chartreuse-dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<br/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashu-guo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-#
+  </td>
+</tr>
+</table>
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+<p >
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</p>
+
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoNaiclas21&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoNaiclas21&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-</details>
-<br/>
+  <a href="https://ashu-guo.github.io/blogs/" target="_blank">
+    <img align="center" alt="ashu-guo | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
+  </a> &nbsp;&nbsp;
 
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
+  <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
+    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
 
-<br/>
+  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
+    <img align="center" alt="ashu-guo | juejin" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/juejin.svg" />
+  </a> &nbsp;&nbsp;
 
-#
-<h1>
-  Connect With Me
-  <img src="https://github.com/nicoNaiclas21/nicoNaiclas21/blob/master/GIF/Handshake.gif" height="25px">
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>     
-</p>
-<br/>
+  <a href="mailto:guochengli1997@gmail.com" >
+    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> &nbsp;&nbsp;
+<p>
 
 
-
-
-#
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2024 ashu-guo
+</div>
 
 
 

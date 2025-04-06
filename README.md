@@ -6,7 +6,7 @@
 
 <br/>
 <br/>
-#
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 🔭 Ahora mismo estoy estudiando **Desarrollo de Aplicaciones Multiplataforma.**
@@ -14,11 +14,11 @@
 - 💬 Cualquier cosa no dudes en decirme! Será un placer ayudarte.
 
 <br/>
-#
+
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
-
+#
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cassandra,java,mysql,py&them=light)](https://skillicons.dev)
 

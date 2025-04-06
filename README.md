@@ -25,9 +25,8 @@
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
-<p align="left">
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cassandra,java,mysql,py&them=light)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cassandra,java,mysql,py&them=light)](https://skillicons.dev)
+
 #
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 
@@ -37,13 +36,13 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashu-guo&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nicoNaiclas21&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-guo&theme=chartreuse-dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoNaiclas21&theme=chartreuse-dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashu-guo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nicoNaiclas21&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -57,7 +56,7 @@
     </picture>
 </p>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Contáctame
 
 <p align="center">
   <a href="https://ashu-guo.github.io/blogs/" target="_blank">

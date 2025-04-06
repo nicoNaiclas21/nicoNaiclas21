@@ -10,30 +10,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
+ - 🔭 Ahora mismo estoy estudiando **Desarrollo de Aplicaciones Multiplataforma.**
+ - 🌱 Mi objetivo es crecer y formarme en el mundo de la **Informática.**
+ - 💬 Cualquier cosa no dudes en decirme! Será un placer ayudarte.
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </td>
 </tr>
-</table>
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="left">
-      - 🔭 Ahora mismo estoy estudiando **Desarrollo de Aplicaciones Multiplataforma.**
-      - 🌱 Mi objetivo es crecer y formarme en el mundo de la **Informática.**
-      - 💬 Cualquier cosa no dudes en decirme! Será un placer ayudarte.
-    </td>
-    <td width="50%" align="center">
-      <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-    </td>
-  </tr>
 </table>
 <br/>
 
